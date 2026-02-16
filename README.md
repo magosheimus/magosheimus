@@ -16,7 +16,9 @@ I enjoy connecting different fields and turning complex ideas into meaningful to
 - Computer Science student with a background in Medicine  
 - Interested in cognition, learning systems, and structured knowledge  
 - Artist at heart, exploring symbolism, perception, and visual expression  
-- Drawn to the intersection of logic, creativity, and human understanding  
+- Drawn to the intersection of logic, creativity, and human understanding
+
+  ---
 
 ### ☘︎ Projects
 
@@ -47,6 +49,8 @@ Custom ordering app built for a real store environment, allowing customers to dy
 ⬩➤ **Other Works**  
 Small tools and experiments involving automation, structured thinking, and problem-solving through code.
 
+---
+
 ### જ⁀➴ Interconnected mindset
 
 ➺ Medicine taught me how to learn in a functional way, to see and treat people as humans, and to investigate problems with clarity and purpose.  
@@ -54,6 +58,8 @@ Small tools and experiments involving automation, structured thinking, and probl
 ➺ Art allows me to explore ideas, create with my hands, and stay creatively alive.  
 
 ➺ Learning technology allows me to integrate all of this: building practical tools for the real world, and to build bridges between ideas.
+
+---
 
 ### ☁︎ Philosophy
 
