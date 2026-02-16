@@ -20,7 +20,7 @@ I enjoy connecting different fields and turning complex ideas into meaningful to
 
 ### ☘︎ Projects
 
-**Rememorium**  
+⬩➤ **Rememorium**  
 Symbolic spaced-repetition learning system inspired by cognition, memory, and knowledge architecture.
 
 ![Status](https://img.shields.io/badge/status-completed-success)
@@ -28,7 +28,7 @@ Symbolic spaced-repetition learning system inspired by cognition, memory, and kn
 ![Type](https://img.shields.io/badge/type-learning%20system-informational)
 
 
-**Avicena Care**  
+⬩➤ **Avicena Care**  
 Automated medical triage system with continuous machine learning exploration and big data approach.
 
 ![Status](https://img.shields.io/badge/status-experimental-orange)
@@ -36,7 +36,7 @@ Automated medical triage system with continuous machine learning exploration and
 ![AI](https://img.shields.io/badge/concept-machine%20learning-purple)
 
 
-**Geek Floripa App**  
+⬩➤ **Geek Floripa App**  
 Custom ordering app built for a real store environment, allowing customers to dynamically choose designs and request personalized print images.
 
 ![Type](https://img.shields.io/badge/type-real%20world%20app-success)
@@ -44,34 +44,24 @@ Custom ordering app built for a real store environment, allowing customers to dy
 ![Context](https://img.shields.io/badge/context-store%20environment-blue)
 
 
-**Other Works**  
+⬩➤ **Other Works**  
 Small tools and experiments involving automation, structured thinking, and problem-solving through code.
 
 ### જ⁀➴ Interconnected mindset
 
-Medicine taught me how to learn in a functional way, to see and treat people as humans, and to investigate problems with clarity and purpose.  
+➺ Medicine taught me how to learn in a functional way, to see and treat people as humans, and to investigate problems with clarity and purpose.  
 
-Art allows me to explore ideas, create with my hands, and stay creatively alive.  
+➺ Art allows me to explore ideas, create with my hands, and stay creatively alive.  
 
-Managing a clothing store taught me how to work with people and navigate real interpersonal challenges.  
-
-Learning technology allows me to integrate all of this: building practical tools for the real world, and to build bridges between ideas.
+➺ Learning technology allows me to integrate all of this: building practical tools for the real world, and to build bridges between ideas.
 
 ### ☁︎ Philosophy
 
 I like to understand how things work, how people feel, and how ideas connect.  
 If I learn something, I try to make it useful. 
 
-<p align="center">🌿</p>
+---
 
 ‪‪❤︎‬ Thanks for visiting ⋆⭒˚｡⋆
 
-<p align="center">🌿</p>
-
-
-## 𖹭 Activity ↓
-
-![Sheima GitHub stats](https://github-readme-stats.vercel.app/api?username=magosheimus&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magosheimus&layout=compact)
 
