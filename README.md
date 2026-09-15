@@ -1,22 +1,18 @@
 ## ⋆˚꩜｡ Hi there, I'm Sheima ^^
 
-A curious explorer of systems, code, medicine, and art.  
-I enjoy connecting different fields and turning complex ideas into meaningful tools and creations.
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)
 ![Computer Science](https://img.shields.io/badge/Computer%20Science-student-informational)
 ![Systems](https://img.shields.io/badge/Focus-Systems-lightgrey)
 ![Learning Systems](https://img.shields.io/badge/Focus-Learning%20Architecture-lightgrey)
-![Automation](https://img.shields.io/badge/Focus-Automation-lightgrey)
-![Builder](https://img.shields.io/badge/Mindset-Builder-6f42c1)
-
 
 ### 𖤐 About me
 
 - Computer Science student with a background in Medicine  
 - Interested in technology, medicine, and creative projects
 - Artist at heart, always exploring new ways to create and express ideas
-- Drawn to the intersection of logic and creativity, and to turning ideas into something tangible
+- I like to find connections between different areas and turn ideas into something tangible
 
   ---
 
@@ -47,24 +43,17 @@ Custom ordering app built for a real store environment, allowing customers to dy
 
 
 ⬩➤ **Other Works**  
-Small tools and experiments involving automation, structured thinking, and problem-solving through code.
+Smaller tools, experiments, and side projects built along the way.
 
 ---
 
 ### જ⁀➴ Interconnected mindset
 
-➺ Medicine taught me how to learn in a functional way, to see and treat people as humans, and to investigate problems with clarity and purpose.  
+➺ Medicine helped me develop a practical way of learning, an investigative mindset, and a more human perspective.
 
-➺ Art allows me to explore ideas, create with my hands, and stay creatively alive.  
+➺ Art has always been a way for me to explore ideas and make things with my own hands.
 
-➺ Learning technology allows me to integrate all of this: building practical tools for the real world, and to build bridges between ideas.
-
----
-
-### ☁︎ Philosophy
-
-I like to understand how things work, how people feel, and how ideas connect.  
-If I learn something, I try to make it useful. 
+➺ Computer Science gives me a way to bring these different interests together and turn ideas into things I can actually build.
 
 ---
 
