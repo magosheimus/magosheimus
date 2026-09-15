@@ -14,9 +14,9 @@ I enjoy connecting different fields and turning complex ideas into meaningful to
 ### 𖤐 About me
 
 - Computer Science student with a background in Medicine  
-- Interested in cognition, learning systems, and structured knowledge  
-- Artist at heart, exploring symbolism, perception, and visual expression  
-- Drawn to the intersection of logic, creativity, and human understanding
+- Interested in technology, medicine, and creative projects
+- Artist at heart, always exploring new ways to create and express ideas
+- Drawn to the intersection of logic and creativity, and to turning ideas into something tangible
 
   ---
 
